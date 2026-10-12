@@ -1,8 +1,11 @@
 # 🔵🔴 FC Barcelona - 3-Season Performance Analytics (2023/24 - 2025/26)
 
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![DAX](https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=databricks&logoColor=white)](https://docs.microsoft.com/en-us/dax/)
-[![Power Query](https://img.shields.io/badge/Power_Query-00838F?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/DAX-00758F?style=for-the-badge&logo=databricks&logoColor=white" alt="DAX" />
+  <img src="https://img.shields.io/badge/Power_Query-00838F?style=for-the-badge&logo=microsoft&logoColor=white" alt="Power Query" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+</p>
 
 ## 📌 Project Overview
 
