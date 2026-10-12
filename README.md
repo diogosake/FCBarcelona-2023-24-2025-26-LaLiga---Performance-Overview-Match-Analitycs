@@ -70,7 +70,7 @@ Tracks top offensive contributors using metrics, playing time, and custom calcul
 ```
 ├── data/                               # Raw match & player datasets (3 seasons)
 ├── images/                             # Dashboard screenshots and visual assets
-│   └── Barcelona_Dashboard.png         # Main Dashboard Export
+│   └── dashboard.png                   # Main Dashboard Export
 ├── FC_Barcelona_3Seasons_Analysis.pbix # Main Power BI Desktop file
 └── README.md                           # Project documentation
 ```
@@ -79,6 +79,8 @@ Tracks top offensive contributors using metrics, playing time, and custom calcul
 
 ## 📜 License & Intellectual Property
 
-* **Data & Club Rights:** All FC Barcelona logos, team names, and official La Liga match statistics belong to **FC Barcelona** and **LaLiga**.
-* **Portfolio Scope:** This project was developed strictly for personal portfolio, educational, and analytical demonstration purposes.
-* **Dashboard Design & Code:** © 2026 Diogo Sakellarides Salgado. Free to reference with proper attribution.
+This project is open-source and available under the [MIT License](LICENSE). 
+
+* **Data Rights:** The FC Barcelona name, logo, and original match statistics belong to their respective copyright holders (FC Barcelona / La Liga). This project was developed strictly for educational and portfolio demonstration purposes.
+* **Dashboard Design & DAX Code:** © 2026 Diogo Sakellarides Salgado. Free to use for reference with proper attribution.
+
