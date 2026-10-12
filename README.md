@@ -28,6 +28,10 @@ The project evaluates team performance trends over time, home vs. away split eff
 
 ## 🖥️ Dashboard Features & Analytical Insights
 
+<p align="center">
+  <img src="img/dashboard" alt="dashboard" />
+</p>
+
 ### 1. Multi-Season Team Performance Trends
 * **Goals Scored vs. Conceded:** Comparative annual evolution demonstrating peak scoring efficiency in `2024/2025` (over 100 goals scored) while tracking defensive stability trends across all three years.
 * **Season-by-Season Results:** Yearly breakdowns of Wins, Draws, and Losses highlighting a strong `2025/2026` campaign with over 30 victories.
