@@ -29,7 +29,7 @@ The project evaluates team performance trends over time, home vs. away split eff
 ## 🖥️ Dashboard Features & Analytical Insights
 
 <p align="center">
-  <img src="img/dashboard" alt="dashboard" />
+  <img src="img/dashboard.png" alt="dashboard" />
 </p>
 
 ### 1. Multi-Season Team Performance Trends
@@ -52,16 +52,6 @@ Tracks top offensive contributors using metrics, playing time, and custom calcul
   * **Most Appearances:** Lamine Yamal (100) & Robert Lewandowski (100), followed by Jules Koundé (97) and Pedri (90).
   * **Top Performance Scores:** Robert Lewandowski (356), Lamine Yamal (300), Ferran Torres (209), and Pedri (201).
 
----
-
-## 📸 Dashboard Preview
-
-To view the dashboard screenshots directly in the repository, place your image files inside an `images/` directory or at the root level:
-
-```markdown
-### 📊 FC Barcelona 3-Season Dashboard
-![FC Barcelona Multi-Season Dashboard](images/Barcelona_Dashboard.png)
-```
 
 ---
 
